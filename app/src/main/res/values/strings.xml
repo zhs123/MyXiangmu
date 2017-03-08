@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyXiangmu</string>
+    <string name="title">首页</string>
+    <string name="dayday">天天</string>
+    <string name="shopping_cart">购物车</string>
+    <string name="my">我的</string>
+</resources>
